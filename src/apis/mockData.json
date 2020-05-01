@@ -1,0 +1,91 @@
+[{
+        "id": 1,
+        "price": "6.25",
+        "name": "Raspberries",
+        "image": "raspberries.jpg"
+    },
+    {
+        "id": 2,
+        "price": "8.00",
+        "name": "Mini Cucumbers",
+        "image": "cucumbers.jpg"
+    },
+    {
+        "id": 3,
+        "price": "4.20",
+        "name": "Tomatoes",
+        "image": "tomatoes.jpg"
+    },
+    {
+        "id": 4,
+        "price": "2.20",
+        "name": "Lemons",
+        "image": "limes.jpg"
+    },
+    {
+        "id": 5,
+        "price": "1.24",
+        "name": "Spinach",
+        "image": "spinach.jpg"
+    },
+    {
+        "id": 6,
+        "price": "5.83",
+        "name": "Avacados",
+        "image": "avacado.jpg"
+    },
+    {
+        "id": 7,
+        "price": "7.14",
+        "name": "Onions",
+        "image": "onions.jpg"
+    },
+    {
+        "id": 8,
+        "price": "4.33",
+        "name": "Potatoes",
+        "image": "potatoes.jpg"
+    },
+    {
+        "id": 9,
+        "price": "6.99",
+        "name": "Strawberries",
+        "image": "strawberries.jpg"
+    },
+    {
+        "id": 10,
+        "price": "8.60",
+        "name": "Broccoli",
+        "image": "brocoli.jpg"
+    },
+    {
+        "id": 11,
+        "price": "5.05",
+        "name": "Green Beans",
+        "image": "greenBeans.jpg"
+    },
+    {
+        "id": 12,
+        "price": "1.49",
+        "name": "Sweet Potatoes",
+        "image": "sweetPotatoes.jpg"
+    },
+    {
+        "id": 13,
+        "price": "8.74",
+        "name": "Eggplant",
+        "image": "eggplant.jpg"
+    },
+    {
+        "id": 14,
+        "price": "9.71",
+        "name": "Blueberries",
+        "image": "blueberries.jpg"
+    },
+    {
+        "id": 15,
+        "price": "7.30",
+        "name": "Sweet Corn",
+        "image": "sweetCorn.jpg"
+    }
+]

@@ -1,0 +1,12 @@
+.card-content {
+  text-align: center;
+  .product-image {
+    height: 100px;
+    pointer-events: none;
+  }
+
+  .add-product {
+    margin: 10px 0px 15px;
+    background-color: green;
+  }
+}
